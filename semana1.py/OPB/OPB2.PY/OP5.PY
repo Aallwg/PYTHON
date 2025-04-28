@@ -1,0 +1,6 @@
+PALABRA= input("INGRESE UNA PALABRA:")
+NUMERO= int(input("INGRESE UN NUMERO PARA QUE SE REPITA LA PALABRA:"))
+
+RESULTADO= PALABRA * NUMERO, 
+
+print(f"La palabra repetida {NUMERO} veces es: {RESULTADO}")
